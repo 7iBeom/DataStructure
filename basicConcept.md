@@ -141,7 +141,7 @@ end Natural_Number
 - Binary Search: $O(\log n)$
 - Fibonacci Sequence with call the loop: $O(n)$
 - Tower of Hanoi with Recursive call: $O(2^n)$
-![[Pasted image 20240919220347.png]]
+![Pasted image 20240919220347|100](https://github.com/user-attachments/assets/b4e05a85-6836-4890-86b7-694a823102cb)
 
 | Name                        | Notation      |
 | --------------------------- | ------------- |
